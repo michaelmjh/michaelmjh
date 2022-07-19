@@ -8,7 +8,7 @@ Technologies Used:
   * Flask 
   * HTML 
   * CSS
-* **[turtle_crossing](https://github.com/michaelmjh/turtle_crossing "turtle_crossing") (self study)**, a 'Frogger' style game built to experement with Pythons built in libraries. Technologies Used: 
+* **[turtle_crossing](https://github.com/michaelmjh/turtle_crossing "turtle_crossing") (self study)**, a 'Frogger' style game built to experement with Pythons built-in graphics libraries. Technologies Used: 
   * Python3
   * turtle Library
 * **[calculatorForms](https://github.com/michaelmjh/calculatorForms "calculatorForms") (self study)**, a calculator built to experiment with GUIs in Windows Forms. Technologies Used: 
